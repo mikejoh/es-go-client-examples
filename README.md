@@ -1,6 +1,6 @@
 # Elasticsearch Go-client examples
 
-_I created this repository as a note-to-self_
+_I created this repository as a note-to-self._
 
 1. Within the cloned repository run `docker-compose up -d`
 2. Run `go run main.go` in any of the sub-folders of the examples, beaware that you need to download the Go-client used in these example and as well as the `logrus` package.
